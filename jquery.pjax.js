@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 /*!
  * Copyright 2012, Chris Wanstrath
  * Released under the MIT License
